@@ -16,6 +16,7 @@ from os import getenv
 
 if(sys.version_info[0] == 2):
     from Tkinter import *
+    import tkFileDialog as filedialog
     import tkMessageBox
 elif(sys.version_info[0] == 3):
     from tkinter import *
