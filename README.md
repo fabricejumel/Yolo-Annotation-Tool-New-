@@ -1,6 +1,16 @@
 # Yolo-Annotation-Tool-New
 Requirements :
- sudo apt-get install python3-pil.imagetk
+
+For Debian/Ubuntu:
+
+Python 2
+sudo apt-get install python-imaging python-pil.imagetk
+
+Python 3
+sudo apt-get install python3-pil python3-pil.imagetk
+
+ python3 main.py
+
  
 This is new yolo annotation tool which is added new features. I have posted three blogs for how to train yolov2 and v3 using our custom images.
 
