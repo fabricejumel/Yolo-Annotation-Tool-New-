@@ -1,5 +1,7 @@
 # Yolo-Annotation-Tool-New
-
+Requirements :
+ sudo apt-get install python3-pil.imagetk
+ 
 This is new yolo annotation tool which is added new features. I have posted three blogs for how to train yolov2 and v3 using our custom images.
 
 You can follow three steps for annotate the image to yolo.<br>
