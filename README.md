@@ -4,7 +4,7 @@ Requirements :
 For Debian/Ubuntu:
 
 Python 2
-sudo apt-get install python-imaging python-pil.imagetk
+sudo apt-get install python-pil.imagetk
 
 Python 3
 sudo apt-get install python3-pil python3-pil.imagetk
